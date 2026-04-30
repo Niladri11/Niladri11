@@ -5,8 +5,6 @@ Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🔐 Cybersecurity roots. Infrastructure brain. AWS obsessed.
 
-🚀 Building ResQOps — multi-region disaster recovery on AWS with Terraform, Docker & GitHub Actions OIDC
-
 🎯 IIT Jammu intern
 
 * 🌍  I'm based in West Bengal,india
@@ -51,16 +49,7 @@ Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niladri11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niladri11&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Niladri11&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niladri11&layout=compact&theme=tokyonight" width="40%"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cloud+Engineer+in+Progress;DevOps+Learner;AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
 
 ---
 
