@@ -4,7 +4,7 @@ Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🛡️ CSE '27 undergrad @ The Neotia University | Cloud ☁️, DevOps ⚙️ & AI 🤖
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C853&lines=Cloud+Engineer+in+Progress;DevOps+Learner;ResQops+under+progres....;AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C853&lines=Cloud+Engineer+in+Progress;DevOps+Learner;ResQops+under+progress....;AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
 
 
 * 🌍  I'm based in West Bengal,india
