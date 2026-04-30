@@ -1,44 +1,48 @@
 Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Niladri
 =======================================================================================================================================
 
-⚡ Breaking things securely and automating the cleanup | CSE '27 | Cloud ☁️, DevOps ⚙️, Cybersecurity 🔐 & AI 🤖
+🛡️ CSE undergrad @ The Neotia University | CSE '27 | Cloud ☁️, DevOps ⚙️ & AI 🤖
 
 🔐 Cybersecurity roots. Infrastructure brain. AWS obsessed.
 
-🚀 Built ResQOps — multi-region disaster recovery on AWS with Terraform, Docker & GitHub Actions OIDC
+🚀 Building ResQOps — multi-region disaster recovery on AWS with Terraform, Docker & GitHub Actions OIDC
 
 🎯 IIT Jammu intern
 
 * 🌍  I'm based in West Bengal,india
 * ✉️  You can contact me at [niladritewari86@gmail.com](mailto:niladritewari86@gmail.com)
 * 🚀  I'm currently working on [ResQps](http://github.com/Niladri11/ResQops)
+
   
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladritewari/) 
 
 
 # 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
-<td><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"></td>
-</tr>
-</table>
+
+## 🛠️ What I'm Building
+
+### 🔥 ResQOps — Automated Disaster Recovery Platform
+> *Because hoping your infra survives an outage is not an SRE strategy.*
+
+| Category | Details |
+|---|---|
+| ☁️ Cloud | AWS (ap-south-1 Mumbai primary · ap-southeast-1 Singapore DR) |
+| 🏗️ Infra as Code | Terraform — VPC, EC2, RDS, ECR, IAM, SNS provisioned from scratch |
+| 🐳 Containers | Dockerized Flask app · images pushed to AWS ECR |
+| ⚙️ CI/CD | GitHub Actions with OIDC (no hardcoded secrets, ever) |
+| 📊 Observability | Prometheus metrics · Grafana dashboards · AlertManager alerts |
+| 🚨 DR Trigger | Lambda + SNS · auto-triggers failover to Singapore on primary failure |
+| 🔐 Security | OIDC-based auth · IAM least-privilege roles · no credentials in codebase |
+
+**What it actually does:**
+- 🟢 Monitors primary region health continuously via Prometheus
+- ⚡ Auto-triggers cross-region failover to DR environment on failure
+- 📡 Sends Slack alerts the moment something goes wrong
+- 🔄 Full infra reproducible with a single `terraform apply`
+- 🛡️ Built security-aware from day one — not bolted on after
 
 
 # 📊 GitHub Stats:
@@ -46,7 +50,19 @@ Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://streak-stats.demolab.com/?user=Niladri11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niladri11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niladri11&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Niladri11&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niladri11&layout=compact&theme=tokyonight" width="40%"/>
+</p>
+
 ---
-[![](https://komarev.com/ghpvc/?username=Niladri11&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
