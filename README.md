@@ -1,11 +1,11 @@
 Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Niladri
 =======================================================================================================================================
 
-🛡️ CSE undergrad @ The Neotia University | CSE '27 | Cloud ☁️, DevOps ⚙️ & AI 🤖
+🛡️ CSE '27 undergrad @ The Neotia University | Cloud ☁️, DevOps ⚙️ & AI 🤖
 
-🔐 Cybersecurity roots. Infrastructure brain. AWS obsessed.
 
-🎯 IIT Jammu intern
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C853&lines=Cloud+Engineer+in+Progress;DevOps+Learner;ResQops+under+progres....;AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
+
 
 * 🌍  I'm based in West Bengal,india
 * ✉️  You can contact me at [niladritewari86@gmail.com](mailto:niladritewari86@gmail.com)
@@ -47,9 +47,6 @@ Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://github-readme-stats.shion.dev/api?username=Niladri11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Niladri11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niladri11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cloud+Engineer+in+Progress;DevOps+Learner;AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
 
 ---
 
