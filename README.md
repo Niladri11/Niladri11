@@ -8,7 +8,8 @@
 <tr>
 
 <td valign="middle" width="120">
-  <img width="692" height="651" alt="image" src="https://github.com/user-attachments/assets/e7ad78fb-ee4b-4883-ab19-dac2440a7201" />
+  <img width="602" height="521" alt="image" src="https://github.com/user-attachments/assets/243ce412-cdf2-4c13-ac2e-89d8fd522a81" />
+
 
 </td>
 
@@ -66,10 +67,22 @@
 - 🛡️ Built security-aware from day one — not bolted on after
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Niladri11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Niladri11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niladri11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+
+![](https://streak-stats.demolab.com?user=Niladri11&theme=dark&hide_border=false)
+
+</td>
+<td width="50%">
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niladri11&theme=dark&hide_border=false&layout=compact)
+
+</td>
+</tr>
+</table>
 
 ---
 <div align="center">
