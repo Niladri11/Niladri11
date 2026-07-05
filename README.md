@@ -8,7 +8,8 @@
 <tr>
 
 <td valign="middle" width="120">
-  <img src="./assets/profile.png" width="90" style="border-radius:50%;border:3px solid #2563eb;" />
+  <img width="692" height="651" alt="image" src="https://github.com/user-attachments/assets/e7ad78fb-ee4b-4883-ab19-dac2440a7201" />
+
 </td>
 
 <td valign="middle" style="padding-left:16px">
