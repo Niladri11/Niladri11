@@ -1,4 +1,26 @@
-Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Niladri
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:0d1117&height=3&section=header" width="100%"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2563eb&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+</div>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<td valign="middle" width="120">
+  <img src="./assets/profile.png" width="90" style="border-radius:50%;border:3px solid #2563eb;" />
+</td>
+
+<td valign="middle" style="padding-left:16px">
+
+# Hi, I'm Niladri Tewari 👋
+
+**AI • Cloud • DevOps Engineer** &nbsp;•&nbsp; Building AI-powered cloud automation systems
+
+</td>
+
+</tr>
+</table>
 =======================================================================================================================================
 
 🛡️ CSE '27 undergrad @ The Neotia University | Cloud ☁️, DevOps ⚙️ & AI 🤖
