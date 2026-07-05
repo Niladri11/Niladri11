@@ -49,6 +49,18 @@ Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niladri11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<div align="center">
 
+```
+  "Don't just write code — build things that matter to real people."
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdyusuf0&color=22d3ee&style=flat-square&label=profile+views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/mdyusuf0?style=flat-square&color=22d3ee&label=followers)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:22d3ee&height=80&section=footer&reversal=true" width="100%"/>
 
 
