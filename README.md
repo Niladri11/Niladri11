@@ -23,9 +23,9 @@
 
 </tr>
 </table>
-==========================================================================================
 
-🛡️ CSE '27 undergrad @ The Neotia University | Cloud ☁️, DevOps ⚙️ & AI 🤖
+
+            🛡️ CSE '27 undergrad @ The Neotia University | Cloud ☁️, DevOps ⚙️ & AI 🤖
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C853&lines=Cloud+Engineer+in+Progress;DevOps+Learner;ResQops+under+progress....;AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
@@ -35,9 +35,10 @@
 * ✉️  You can contact me at [niladritewari86@gmail.com](mailto:niladritewari86@gmail.com)
 * 🚀  I'm currently working on [ResQps](http://github.com/Niladri11/ResQops)
 
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladritewari/) 
+  ## 🙋 About Me
+
+- ☕ I enjoy turning ideas into projects and learning by building.
+- 🌱 Always exploring new tools, automating repetitive work, and improving a little every day.
 
 
 # 💻 Tech Stack:
@@ -69,31 +70,29 @@
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
-
-![](https://streak-stats.demolab.com?user=Niladri11&theme=dark&hide_border=false)
-
-</td>
-<td width="50%">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niladri11&theme=dark&hide_border=false&layout=compact)
-
-</td>
-</tr>
-</table>
-
----
 <div align="center">
 
+<img width="49%" src="https://streak-stats.demolab.com?user=Niladri11&theme=dark&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Niladri11&theme=dark&hide_border=false&layout=compact" />
+
+</div>
+
 ```
-  "Don't just write code — build things that matter to real people."
+⚡ "Pressure is a privilege."
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdyusuf0&color=22d3ee&style=flat-square&label=profile+views)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Niladri11&color=2563eb&style=flat-square&label=Profile+Views)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/mdyusuf0?style=flat-square&color=22d3ee&label=followers)
+![Followers](https://img.shields.io/github/followers/Niladri11?style=flat-square&color=2563eb&label=Followers)
+
+</div>
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladritewari/)
 
 </div>
 
