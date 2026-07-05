@@ -9,7 +9,8 @@
 
 <td width="130">
 
-<img src="https://github.com/user-attachments/assets/243ce412-cdf2-4c13-ac2e-89d8fd522a81" width="110"/>
+<img width="706" height="642" alt="image" src="https://github.com/user-attachments/assets/7fede05b-7fb7-436c-a2b6-f36dfce94d54" />
+
 
 </td>
 
