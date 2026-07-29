@@ -43,7 +43,7 @@ Building AI-powered cloud automation systems.
 
 ✉️ **Email:** [niladritewari86@gmail.com](mailto:niladritewari86@gmail.com)
 
-🚀 **Currently Building:** [ResQOps](https://github.com/Niladri11/ResQops)
+
 
 ---
 
