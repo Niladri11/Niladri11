@@ -74,7 +74,7 @@ Building AI-powered cloud automation systems.
 
 ### 🔥 ResQOps — AWS Disaster Recovery Platform
 
-> **Automating cloud recovery instead of waiting for failures.**
+> **Automatic multi-region failover when the primary AWS region goes down.**
 
 | Category | Technologies |
 |---|---|
@@ -89,15 +89,25 @@ Building AI-powered cloud automation systems.
 | 🌐 Infrastructure | VPC, EC2 |
 | 🔐 State Management | Terraform Remote State, DynamoDB |
 
+### What it does
 
-**Highlights**
+ResQOps is a cloud disaster recovery platform that monitors AWS infrastructure, detects failures, sends alerts, and supports automated recovery across regions.
 
-- Continuous infrastructure health monitoring
-- Automated cross-region disaster recovery
-- Infrastructure reproducible using Terraform
-- Secure cloud-first architecture
-- AI-assisted operational troubleshooting
+The infrastructure is provisioned and managed using Terraform. Application services are containerized with Docker and deployed through Amazon ECR and GitHub Actions.
 
+Prometheus and Grafana provide infrastructure monitoring, while AlertManager handles alerts and sends incident notifications to Slack. AWS Lambda and SNS are used to trigger recovery workflows.
+
+### Key Features
+
+- 🌎 Multi-region AWS disaster recovery
+- 🏗️ Infrastructure provisioning with Terraform
+- 🐳 Dockerized services with Amazon ECR
+- 🔄 GitHub Actions CI/CD with OIDC
+- 📊 Prometheus + Grafana monitoring
+- 🚨 AlertManager → Slack incident alerting
+- ⚡ Automated recovery using AWS Lambda and SNS
+- 🗄️ Amazon RDS infrastructure
+- 🔐 Terraform remote state with DynamoDB locking
 ---
 
 ## 📊 GitHub Stats
