@@ -33,7 +33,7 @@ Building AI-powered cloud automation systems.
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;Building+ResQOps;AWS+•+Docker+•+Kubernetes;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&lines=Cloud+Engineer+in+Progress;AWS+•+Docker+•+Kubernetes;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
@@ -72,18 +72,23 @@ Building AI-powered cloud automation systems.
 
 ## 🚀 Featured Project
 
-### 🔥 ResQOps — AI-Powered Disaster Recovery Platform
+### 🔥 ResQOps — AWS Disaster Recovery Platform
 
-> *Automating cloud recovery instead of waiting for failures.*
+> **Automating cloud recovery instead of waiting for failures.**
 
-| Category | Details |
-| :--- | :--- |
-| ☁️ Cloud | AWS Multi-Region Disaster Recovery |
-| 🏗️ IaC | Terraform |
-| 🐳 Containers | Docker |
-| 📊 Monitoring | Prometheus • Grafana • AlertManager |
-| 🤖 AI | FastAPI • ChromaDB • RAG |
-| 🚀 Goal | AI-assisted Disaster Recovery & Incident Response |
+| Category | Technologies |
+|---|---|
+| ☁️ Cloud | AWS — Multi-Region |
+| 🏗️ Infrastructure as Code | Terraform |
+| 🐳 Containers | Docker, Amazon ECR |
+| 🔄 CI/CD | GitHub Actions, OIDC |
+| 📊 Monitoring | Prometheus, Grafana |
+| 🚨 Alerting | AlertManager, Slack |
+| ⚡ Recovery | AWS Lambda, SNS |
+| 🗄️ Database | Amazon RDS |
+| 🌐 Infrastructure | VPC, EC2 |
+| 🔐 State Management | Terraform Remote State, DynamoDB |
+
 
 **Highlights**
 
